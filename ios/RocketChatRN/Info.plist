@@ -2,12 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>IS_OFFICIAL</key>
-	<false/>
 	<key>AppGroup</key>
-	<string>group.ios.chat.rocket</string>
+	<string>group.ios.artsofte.rocketchat</string>
 	<key>BugsnagAPIKey</key>
-	<string></string>
+	<string>4ccd81a059a430a3d6bb32e4caa1e6e0</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -23,7 +21,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.17.0</string>
+	<string>$(MARKETING_VERSION)</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleURLTypes</key>
@@ -41,10 +39,12 @@
 	</array>
 	<key>CFBundleVersion</key>
 	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>IS_OFFICIAL</key>
+	<false/>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>KeychainGroup</key>
-	<string>$(AppIdentifierPrefix)chat.rocket.reactnative</string>
+	<string>$(AppIdentifierPrefix)ru.artsofte.rocketchat</string>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>googlechrome</string>
