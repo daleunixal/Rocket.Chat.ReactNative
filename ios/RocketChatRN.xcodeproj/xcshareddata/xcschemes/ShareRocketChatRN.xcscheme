@@ -16,7 +16,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1EC6ACAF22CB9FC300A41C61"
-               BuildableName = "AS Share.appex"
+               BuildableName = "ArtSofteChat ShareExt.appex"
                BlueprintName = "ShareRocketChatRN"
                ReferencedContainer = "container:RocketChatRN.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1EC6ACAF22CB9FC300A41C61"
-            BuildableName = "AS Share.appex"
+            BuildableName = "ArtSofteChat ShareExt.appex"
             BlueprintName = "ShareRocketChatRN"
             ReferencedContainer = "container:RocketChatRN.xcodeproj">
          </BuildableReference>
