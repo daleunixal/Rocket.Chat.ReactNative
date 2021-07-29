@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923269224506",
+    "project_id": "artsofte-rocket-chat",
+    "storage_bucket": "artsofte-rocket-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923269224506:android:fc6663e8cf820196a87d03",
+        "android_client_info": {
+          "package_name": "ru.artsofte.rocketchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923269224506-8f1t11adr9bb0e6veph9gukrs0hobgvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNdfonfZVakjWvn8bfONFlNI9qvNNmcEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923269224506-8f1t11adr9bb0e6veph9gukrs0hobgvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
